@@ -1,9 +1,0 @@
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.Tests.dll
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.Tests.pdb
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.dll
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\bin\Debug\nunit.framework.dll
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.pdb
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\bin\Debug\nunit.framework.xml
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\obj\Debug\DesignPatterns.Tests.csprojResolveAssemblyReference.cache
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\obj\Debug\DesignPatterns.Tests.dll
-C:\personal-workspace\DesignPatterns\DesignPatterns.Tests\obj\Debug\DesignPatterns.Tests.pdb
