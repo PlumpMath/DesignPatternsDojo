@@ -1,0 +1,5 @@
+packages/*
+DesignPatterns/obj/*
+DesignPatterns/bin/*
+DesignPatterns.Test/obj/*
+DesignPatterns.Test/bin/*

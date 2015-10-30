@@ -1,0 +1,5 @@
+C:\personal-workspace\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
+C:\personal-workspace\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\personal-workspace\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\personal-workspace\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
+C:\personal-workspace\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
